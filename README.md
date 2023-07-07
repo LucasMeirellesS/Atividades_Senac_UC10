@@ -60,3 +60,7 @@ Dica: utilize a propriedade .setEnabled( ) para desabilitar, segundo a permissã
 A segunda tela será um cadastro do repositório de podcast, contendo os campos: ID, produtor, nome do episódio, nº do episódio, duração e URL do repositório.
 A terceira tela será uma listagem de todos os dados cadastrados.
 Realize a criação de um filtro por produtor.
+
+
+# cenaflix_bd.sql
+Banco de dados utilizado para a realização das atividades.
